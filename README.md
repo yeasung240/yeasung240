@@ -1,9 +1,9 @@
-- 🤓 Hi There, I'm Yea Sung Kim 
+- 🤓 Hi There, I'm Yea Sung Kim.
 - 🌟 I’m a student, adventurer, and entrepreneur. 
 - 🐌 I’m currently learning basic of programming in Phython and HTML. 
 - 🛩️ I’m looking to collaborate with people who are creative. 
 - 📫 2022 Goals : Find how funny coding is. 
-- 🛎️ Fun fact : I love to play basket ball and go to gym. 
+- 🛎️ Fun fact : I love to play basketball and go to gym. 
 
 
 #Contact
