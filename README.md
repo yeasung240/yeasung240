@@ -3,13 +3,12 @@
 - 🐌 I’m currently learning basic of programming in Phython and HTML. 
 - 🛩️ I’m looking to collaborate with people who are creative. 
 - 📫 2022 Goals : Find how funny coding is. 
-  🛎️ Fun fact : I love to play basket ball and go to gym. 
+- 🛎️ Fun fact : I love to play basket ball and go to gym. 
 
 
 #Contact
-[Instagram]: https://www.instagram.com/yeana_mool/
-
-[Facebook]: https://www.facebook.com/profile.php?id=100006150300301
+-[Instagram]: https://www.instagram.com/yeana_mool/
+-[Facebook]: https://www.facebook.com/profile.php?id=100006150300301
 
 <!---
 yeasung240/yeasung240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
