@@ -31,6 +31,7 @@ statistical modelling, data analysis, and SQL.
 |----------|----------------|
 | Statistical computing | R, SAS, SPSS, Excel |
 | Databases | SQL |
+| Algorithm | Python |
 | Statistical methods | Regression, ANOVA, multivariate analysis |
 | Latent variable models | Factor analysis, structural equation modelling |
 
