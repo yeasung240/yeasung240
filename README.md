@@ -11,7 +11,7 @@ statistical modelling, data analysis, and SQL.
 
 ---
 
-## Areas of Interest
+## Research interest
 
 - Statistical modelling and inference
 - Multivariate analysis
@@ -29,8 +29,8 @@ statistical modelling, data analysis, and SQL.
 
 | Category | Tools / Topics |
 |----------|----------------|
-| Statistical computing | R |
-| Databases | SQL — currently learning |
+| Statistical computing | R, SAS, SPSS, Excel |
+| Databases | SQL |
 | Statistical methods | Regression, ANOVA, multivariate analysis |
 | Latent variable models | Factor analysis, structural equation modelling |
 
