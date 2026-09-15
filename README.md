@@ -65,13 +65,8 @@ statistical modelling, data analysis, and SQL.
         traffic across Flanders using temporal, weather, and spatial
         features, with an interactive dashboard for exploring predictions.
       </p>
-      <p><strong>My Contribution</strong></p>
-      <p>
-        Cleaned and prepared data, handled missing observations,
-        engineered cyclical time features, and supported LightGBM
-        hyperparameter testing and performance evaluation.
-      </p>
-    </td>
+  
+    
   </tr>
 </table>
 
