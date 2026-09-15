@@ -1,27 +1,54 @@
-<h1 align="left">Hi There 👋, I'm I'm Yeasung Kim, a developer who loves thinking</h1>
-<h3 align="left">I am working for the cause.</h3>
+# Yea Sung Kim
 
-- 🔭 I’m currently studying Business at **KU Leuven(Brussels campus)**
+### Statistics & Data Science · KU Leuven
 
-- 💒 I'm currently living at **Belgium 🇧🇪**
+I am a graduate student studying Statistics and Data Science at
+KU Leuven, Belgium.
 
-- 💬 Ask me about **Python, SQL**
+I enjoy exploring how statistical methods help us understand data
+and answer real-world questions. I am developing my skills in
+statistical modelling, data analysis, and SQL.
 
-- 📫 How to reach me **yeasung.kim@student.kuleuven.be**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yea-sung-kim-608348250/](https://www.linkedin.com/in/yea-sung-kim-608348250/)
+## Areas of Interest
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/yeana_mool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeana_mool" height="30" width="40" /></a>
-</p>
+- Statistical modelling and inference
+- Multivariate analysis
+- Machine learning
+- Missing data methods
+- Applications in healthcare and ecology
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Current Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasung240&show_icons=true&locale=en&layout=compact" alt="yeasung240" /></p>
+- Practising SQL through LeetCode SQL 50
+- Applying statistical methods in R
+- Strengthening my understanding of machine learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasung240&show_icons=true&locale=en" alt="yeasung240" /></p>
+## Tools & Methods
+
+| Category | Tools / Topics |
+|----------|----------------|
+| Statistical computing | R |
+| Databases | SQL — currently learning |
+| Statistical methods | Regression, ANOVA, multivariate analysis |
+| Latent variable models | Factor analysis, structural equation modelling |
+
+---
+
+## Featured Projects
+
+<!-- Add your actual projects here using this format:
+
+### [Project title](repository URL)
+
+A brief description of the question you investigated.
+
+- Tools: R / SQL / other tools used
+- Methods: What you applied
+- Findings: What you learned or discovered
+
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeasung240&" alt="yeasung240" /></p>
 
