@@ -39,17 +39,39 @@ statistical modelling, data analysis, and SQL.
 
 ## Featured Projects
 
-<!-- Add your actual projects here using this format:
+## Featured Projects
 
-### [Project title](repository URL)
-
-A brief description of the question you investigated.
-
-- Tools: R / SQL / other tools used
-- Methods: What you applied
-- Findings: What you learned or discovered
-
--->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeasung240&" alt="yeasung240" /></p>
+<table>
+  <tr>
+    <td>
+      <h3>
+        <a href="https://github.com/yeasung240/cycling-traffic-prediction-flanders.">
+          Predicting Cycling Traffic in Flanders
+        </a>
+      </h3>
+      <p><strong>Research Area</strong></p>
+      <p>Predictive Modelling · Urban Mobility · Data Science</p>
+      <p><strong>Tech Stack</strong></p>
+      <p>
+        <code>Python</code>
+        <code>pandas</code>
+        <code>NumPy</code>
+        <code>LightGBM</code>
+        <code>Streamlit</code>
+      </p>
+      <p><strong>Summary</strong></p>
+      <p>
+        Collaboratively developed a model to predict hourly cycling
+        traffic across Flanders using temporal, weather, and spatial
+        features, with an interactive dashboard for exploring predictions.
+      </p>
+      <p><strong>My Contribution</strong></p>
+      <p>
+        Cleaned and prepared data, handled missing observations,
+        engineered cyclical time features, and supported LightGBM
+        hyperparameter testing and performance evaluation.
+      </p>
+    </td>
+  </tr>
+</table>
 
